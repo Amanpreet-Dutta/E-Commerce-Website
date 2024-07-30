@@ -1,6 +1,6 @@
 Full Responsive Ecommerce Website
 
-Welcome to the Full Responsive Ecommerce Website project! This repository contains the source code for a multipage ecommerce website that I built by following a comprehensive tutorial. The website is built using HTML, CSS, and JavaScript, showcasing a modern and responsive design.
+Welcome to the Full Responsive Ecommerce Website project! This repository contains the source code for a multipage ecommerce website. The website is built using HTML, CSS, and JavaScript, showcasing a modern and responsive design.
 
 Project Overview
 
